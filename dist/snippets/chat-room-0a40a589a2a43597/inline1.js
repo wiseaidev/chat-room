@@ -1,0 +1,1 @@
+export function __cargo_web_snippet_759c83ab6977334dca7041e70b1b12c6a3f8e06a(Module, $0, $1, $2) { $0 = Module.STDWEB_PRIVATE.to_js($0);$1 = Module.STDWEB_PRIVATE.to_js($1);$2 = Module.STDWEB_PRIVATE.to_js($2);let pubnub=($0);pubnub.publish({message:($1),channel:($2),storeInHistory:true,ttl:10,}).then((response)=>{console.log(response);}).catch((error)=>{console.log(error);}); }
