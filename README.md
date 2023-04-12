@@ -51,10 +51,18 @@ A simple chat room application written in Rust powered by Yew.
 
 1. Set your pub/sub keys as environment variables:
 
-```sh
-export SUB_KEY_0="your-sub-key"
-export PUB_KEY_0="your-pub-key"
-```
+	```sh
+	export SUB_KEY_0="your-sub-key"
+	export PUB_KEY_0="your-pub-key"
+	```
+
+1. Run the client:
+
+	```sh
+	trunk serve --port 300
+	```
+
+Navigate to http://localhost:3000 to explore the app.
 
 ## License
 
