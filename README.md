@@ -1,5 +1,8 @@
 # chat-room
 
+![rust.yml](https://img.shields.io/github/actions/workflow/status/wiseaidev/chat-room/rust.yml)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c5f0c450-ef58-4b3a-96ec-13d52a852401/deploy-status)](https://app.netlify.com/sites/yew-chat/deploys)
+
 A simple chat room application written in Rust powered by Yew.
 
 ![banner](./assets/banner.png)
