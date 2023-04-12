@@ -39,15 +39,15 @@ A simple chat room application written in Rust powered by Yew.
 
 1. Fork/Clone the GitHub repository.
 
-```bash
-git clone https://github.com/wiseaidev/chat-room
-```
+	```bash
+	git clone https://github.com/wiseaidev/chat-room
+	```
 
 1. Navigate to the application directory.
 
-```bash
-cd chat-room
-```
+	```bash
+	cd chat-room
+	```
 
 1. Set your pub/sub keys as environment variables:
 
