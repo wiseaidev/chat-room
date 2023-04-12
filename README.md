@@ -59,7 +59,7 @@ A simple chat room application written in Rust powered by Yew.
 1. Run the client:
 
 	```sh
-	trunk serve --port 300
+	trunk serve --port 3000
 	```
 
 Navigate to http://localhost:3000 to explore the app.
