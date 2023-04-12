@@ -9,7 +9,7 @@ A simple chat room application written in Rust powered by Yew.
 
 ## Requirements
 
-- [PubNub Account](#pubnub-account)
+- PubNub Account
 
 <a href="https://dashboard.pubnub.com/signup">
 	<img alt="PubNub Signup" src="https://i.imgur.com/og5DDjf.png" width=260 height=97/>
