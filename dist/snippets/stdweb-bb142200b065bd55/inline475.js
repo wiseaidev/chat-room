@@ -1,1 +1,1 @@
-export function __cargo_web_snippet_f814fda503cb20016f78481f85431d48a7c4e731(Module, $0, $1) { var object = Module.STDWEB_PRIVATE.acquire_js_reference( $0 );Module.STDWEB_PRIVATE.serialize_object( $1, object ); }
+export function __cargo_web_snippet_6b4157e45ff68e034c16923b646a3493949f0f7a(Module, $0) { $0 = Module.STDWEB_PRIVATE.to_js($0);($0).clear(); }

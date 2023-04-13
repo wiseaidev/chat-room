@@ -1,1 +1,1 @@
-export function __cargo_web_snippet_602c9d93798f99abf2025b51395e48b877194f38(Module, $0, $1, $2, $3, $4) { $1 = Module.STDWEB_PRIVATE.to_js($1);$2 = Module.STDWEB_PRIVATE.to_js($2);$3 = Module.STDWEB_PRIVATE.to_js($3);$4 = Module.STDWEB_PRIVATE.to_js($4);Module.STDWEB_PRIVATE.from_js($0, (function(){return($1).isPointInPath(($2),($3),($4));})()); }
+export function __cargo_web_snippet_c37aa415242d4bd7b6e168a6c5a6e7c1356ad24d(Module, $0, $1) { $1 = Module.STDWEB_PRIVATE.to_js($1);Module.STDWEB_PRIVATE.from_js($0, (function(){return($1).getUTCSeconds();})()); }

@@ -1,6 +1,8 @@
-use super::Message;
+use log::info;
+use app::Message;
 use stdweb::Value;
 use yew::prelude::*;
+use stdweb::js;
 
 pub struct Context {
     pubnub: PubnubService,

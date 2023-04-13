@@ -1,1 +1,1 @@
-export function __cargo_web_snippet_3acb61e26a58d72c09ba72199a1768f2ed19718d(Module, $0, $1) { $0 = Module.STDWEB_PRIVATE.to_js($0);$1 = Module.STDWEB_PRIVATE.to_js($1);($0).title=($1); }
+export function __cargo_web_snippet_abed77e7cc03d80d1abb28aebafd33de6e8e2031(Module, $0) { Module.STDWEB_PRIVATE.from_js($0, (function(){return new FormData();})()); }

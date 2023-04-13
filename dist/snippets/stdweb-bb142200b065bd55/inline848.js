@@ -1,1 +1,1 @@
-export function __cargo_web_snippet_b2f12f45d22efd090ad11c42910de6a690b26ff5(Module, $0, $1) { $0 = Module.STDWEB_PRIVATE.to_js($0);$1 = Module.STDWEB_PRIVATE.to_js($1);($0).textBaseline=($1); }
+export function __cargo_web_snippet_8b7cc1a90ecd19ea6290d7d0a840fd125dd3febb(Module, $0) { var o = Module.STDWEB_PRIVATE.acquire_js_reference( $0 );return (o instanceof Event && o.type === "resize"); }

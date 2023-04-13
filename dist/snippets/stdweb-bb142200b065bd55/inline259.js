@@ -1,1 +1,1 @@
-export function __cargo_web_snippet_54c301f42021c68eb1c25310e36baf3b3b910e96(Module, $0, $1) { $0 = Module.STDWEB_PRIVATE.to_js($0);$1 = Module.STDWEB_PRIVATE.to_js($1);var array=($0);var pointer=($1);Module.HEAPU8.set(array,pointer); }
+export function __cargo_web_snippet_1741481f01c50af6f4a3d04e48c3faed9c6f0abb(Module, $0) { var o = Module.STDWEB_PRIVATE.acquire_js_reference( $0 );return (o instanceof CanvasPattern); }

@@ -1,10 +1,19 @@
-extern crate chat_room;
+// required by js! macro
+#![recursion_limit = "512"]
 extern crate web_logger;
+extern crate strum;
+extern crate wasm_bindgen;
+extern crate web_sys;
+extern crate serde_derive;
+extern crate serde;
 extern crate yew;
+extern crate log;
+extern crate stdweb;
 
-use chat_room::Model;
+mod app;
+mod services;
 
 fn main() {
     web_logger::init();
-    yew::Renderer::<Model>::new().render();
+    yew::Renderer::<app::App>::new().render();
 }

@@ -1,1 +1,1 @@
-export function __cargo_web_snippet_de3aac2800e03fdde3f10b766c9a16edfb3b4be0(Module, $0) { var o = Module.STDWEB_PRIVATE.acquire_js_reference( $0 );return (o instanceof BeforeUnloadEvent && o.type === "beforeunload"); }
+export function __cargo_web_snippet_1980fa4179238f0f51ee5bd24452a3f3aff5da25(Module, $0, $1) { $1 = Module.STDWEB_PRIVATE.to_js($1);Module.STDWEB_PRIVATE.from_js($0, (function(){return($1).commonAncestorContainer;})()); }

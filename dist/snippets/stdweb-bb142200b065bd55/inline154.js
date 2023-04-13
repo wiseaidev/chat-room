@@ -1,1 +1,1 @@
-export function __cargo_web_snippet_d4e7bbbc593dd4ffbe97c262683c5a8447657985(Module, $0, $1, $2) { $1 = Module.STDWEB_PRIVATE.to_js($1);$2 = Module.STDWEB_PRIVATE.to_js($2);Module.STDWEB_PRIVATE.from_js($0, (function(){return($1)[($2)];})()); }
+export function __cargo_web_snippet_4236861572d31efbe7251b06fcf945c56c65440d(Module, $0, $1) { $0 = Module.STDWEB_PRIVATE.to_js($0);$1 = Module.STDWEB_PRIVATE.to_js($1);($0).setLineDash(($1)); }

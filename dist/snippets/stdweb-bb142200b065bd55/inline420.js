@@ -1,1 +1,1 @@
-export function __cargo_web_snippet_6c1f25bf7c9104accb489618515bd1869f4ca315(Module, $0, $1) { $1 = Module.STDWEB_PRIVATE.to_js($1);Module.STDWEB_PRIVATE.from_js($0, (function(){return($1).clientX;})()); }
+export function __cargo_web_snippet_ff987f4528f4cf27f9e0a010c9fa1de716a5de16(Module, $0) { var o = Module.STDWEB_PRIVATE.acquire_js_reference( $0 );return (o instanceof Event && o.type === "slotchange"); }
