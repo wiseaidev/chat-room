@@ -1,1 +1,1 @@
-export function __cargo_web_snippet_06f31fdb8e557ba44aaaa2b7a5a6f57d459c4653(Module, $0, $1) { return Module.STDWEB_PRIVATE.acquire_rust_reference( Module.HEAPU8.slice( $0, $1 ) ); }
+export function __cargo_web_snippet_550049fd354fc2e2d13b8dacf6ebece3de7d60a0(Module, $0) { var o = Module.STDWEB_PRIVATE.acquire_js_reference( $0 );return (o instanceof CanvasRenderingContext2D); }

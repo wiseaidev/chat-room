@@ -1,1 +1,1 @@
-export function __cargo_web_snippet_cf0debbfec441e126df5ec4b805a71e969f49a75(Module, $0, $1, $2, $3, $4) { $0 = Module.STDWEB_PRIVATE.to_js($0);$1 = Module.STDWEB_PRIVATE.to_js($1);$2 = Module.STDWEB_PRIVATE.to_js($2);$3 = Module.STDWEB_PRIVATE.to_js($3);$4 = Module.STDWEB_PRIVATE.to_js($4);($0).fillRect(($1),($2),($3),($4)); }
+export function __cargo_web_snippet_9400fc5640618eeb5d737cd2d6ab470f06d05eac(Module, $0, $1) { $1 = Module.STDWEB_PRIVATE.to_js($1);Module.STDWEB_PRIVATE.from_js($0, (function(){return($1).getTimezoneOffset();})()); }

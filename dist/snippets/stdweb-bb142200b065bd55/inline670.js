@@ -1,1 +1,1 @@
-export function __cargo_web_snippet_f097869df78bc9d208a2b3cb163f2e421c6121d6(Module, $0) { var o = Module.STDWEB_PRIVATE.acquire_js_reference( $0 );return (o instanceof HTMLImageElement); }
+export function __cargo_web_snippet_eb6ee45795898a918475b133b99a40e85d842419(Module, $0, $1) { $1 = Module.STDWEB_PRIVATE.to_js($1);Module.STDWEB_PRIVATE.from_js($0, (function(){return($1).radiusY;})()); }

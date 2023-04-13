@@ -1,1 +1,1 @@
-export function __cargo_web_snippet_e49f11f2196b46a0ce72b36f71cd7fa76b8f35f3(Module, $0, $1) { $1 = Module.STDWEB_PRIVATE.to_js($1);Module.STDWEB_PRIVATE.from_js($0, (function(){return($1).endOffset;})()); }
+export function __cargo_web_snippet_032c6280422681a941abb24c206382e18c82f589(Module, $0) { var o = Module.STDWEB_PRIVATE.acquire_js_reference( $0 );return (o instanceof DragEvent && o.type === "dragexit"); }

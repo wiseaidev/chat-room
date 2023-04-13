@@ -1,1 +1,1 @@
-export function __cargo_web_snippet_c65e72a0fb4ac9ba2f5741a39aac712e1f39ebf8(Module, $0) { var o = Module.STDWEB_PRIVATE.acquire_js_reference( $0 );return (o instanceof FileList); }
+export function __cargo_web_snippet_b6fbe111e441333398599f63dc09b26f8d172654(Module, $0, $1) { $1 = Module.STDWEB_PRIVATE.to_js($1);Module.STDWEB_PRIVATE.from_js($0, (function(){return($1).innerHeight;})()); }
